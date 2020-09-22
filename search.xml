@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>通知</title>
-      <link href="2020/09/20/%E9%80%9A%E7%9F%A5/"/>
-      <url>2020/09/20/%E9%80%9A%E7%9F%A5/</url>
-      
-        <content type="html"><![CDATA[<hr><p>​    因为出现了一点小bug，所以个人博客暂时不会更新，可以打开网站，但只能看到“政治知识点”一篇文章。bug主要原因是因为托管至Github上，本地主机测试与链接测试不符，出现问题，问题如下：</p><p>1，个人博客background本地测试与Github上不一致</p><p>2，动效彩带无法关闭</p><p>3，localsearch无法正常使用</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>政治知识点</title>
       <link href="2020/09/20/%E6%94%BF%E6%B2%BB%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
       <url>2020/09/20/%E6%94%BF%E6%B2%BB%E7%9F%A5%E8%AF%86%E7%82%B9/</url>
